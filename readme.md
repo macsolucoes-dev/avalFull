@@ -1,6 +1,6 @@
 # Proposta de projeto para Avaliação Full Stack
 ## Objetivo
-Para esta avaliação deverá ser criada uma aplicação web, a escolha da tecnologia fica a critério do candidato, para registro e gestão de contatos pessoal, conforme esoecificações a seguir.
+Para esta avaliação deverá ser criada uma aplicação web, a escolha da tecnologia fica a critério do candidato, para registro e gestão de contatos pessoal, conforme especificações a seguir.
 - A aplicação deve baseada em uma arquitetura de três camadas, banco de dados, back-end e front-end;
 - A aplicação só deve permitir o acesso a partir de login e senha válidos;
 - A autorização deve ser baseada em JWT;
